@@ -6,4 +6,4 @@
 
 ### Contributing projects
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArgoZhang&repo=BootstrapBlazor&theme=monokai)](https://github.com/dotnetcore/BootstrapBlazor)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArgoZhang&repo=BootstrapBlazor&theme=dracula)](https://github.com/dotnetcore/BootstrapBlazor)
